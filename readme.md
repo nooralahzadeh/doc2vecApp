@@ -1,1 +1,1 @@
-Boilerplate React App
+React doc2vec App
